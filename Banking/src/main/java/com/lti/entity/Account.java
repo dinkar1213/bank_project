@@ -88,7 +88,7 @@ public class Account {
 	public void setCustomer(Customer customer) {
 		this.customer = customer;
 	}
-	
+
 	@JsonIgnore
 	public List<Transaction> getTransaction() {
 		return transaction;
