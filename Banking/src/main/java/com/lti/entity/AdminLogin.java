@@ -49,6 +49,6 @@ public class AdminLogin {
 		this.password = password;
 	}
 	
-	
+
 
 }
