@@ -106,5 +106,5 @@ public class Address {
 				+ ", state=" + state + ", pincode=" + pincode + "]";
 	}
     
-   
+ 
 }
