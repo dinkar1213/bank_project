@@ -83,8 +83,6 @@ public class Beneficiary {
 	public void setCustomer(Customer customer) {
 		this.customer = customer;
 	}
-
-
 	
 	
 }
